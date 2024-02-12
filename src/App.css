@@ -109,4 +109,34 @@ label {
 }
  
 
- 
+ .singleTodo {
+   border-radius: 50px;
+   margin: 10px 0;
+   background-color: #5dadf8;
+   padding: 10px 20px;
+   display: flex;
+   width: 450px;
+   align-items: center;
+ }
+
+
+ .create-form label {
+  color: whitesmoke !important;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px !important;
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #41464b;
+  color: whitesmoke;
+  flex-direction: column;
+} 
+
+.Hello{
+
+  color:antiquewhite; 
+}

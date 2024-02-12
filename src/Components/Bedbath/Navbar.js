@@ -65,9 +65,6 @@ export default function Navbar() {
                             <h2>BedBath &Beyonds</h2>
                         </div>
                         <div className="text-dark bg-white">
-
-
-
                             <Search>
                                 <SearchIconWrapper>
                                     <SearchIcon />
@@ -88,8 +85,6 @@ export default function Navbar() {
                                 </li>
                             </ul>
                         </div>
-
-
 
                         <Box
                             sx={{

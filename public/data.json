@@ -1,0 +1,27 @@
+ [
+     {
+        "id": 0,
+        "firstname": "Gibson",
+        "lastname": "Joseph",
+        "email": "Gj@xyz.com",
+        "mobile": 98765
+      },
+      {
+        "id": 1,
+        "firstname": "Kl",
+        "lastname": "Rahul",
+        "email": "Klr@xyz.com",
+        "mobile": 12345
+      } , 
+
+      {
+        "id": 2,
+        "firstname": "Gibson",
+        "lastname": "Joseph",
+        "email": "Gj@xyz.com",
+        "mobile": 98765
+      }
+       
+ ]
+    
+      

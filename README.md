@@ -1,3 +1,32 @@
+🛒 Bed Bath & Beyond Clone
+
+A fully functional Bed Bath & Beyond Clone built using React, HTML, CSS, and Material UI. This project replicates the UI and key features of the Bed Bath & Beyond e-commerce platform.
+
+✅ Features
+
+🖥 Responsive UI – Optimized for desktop and mobile devices.
+
+🛍 Product Listing – Displays products in a clean, card-based layout.
+
+🔍 Search Functionality – Easily find products by name.
+
+🛒 Add to Cart – Add/remove products from the cart.
+
+🔗 Navigation Bar – Includes links for Home, Products, and Cart.
+
+🎨 Material UI Components – Used for modern design and responsive layout.
+
+🛠 Tech Stack
+
+Frontend: React.js
+
+Styling: HTML5, CSS3, Material UI
+
+State Management: React Hooks (useState, useEffect)
+
+Routing: React Router DOM
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
